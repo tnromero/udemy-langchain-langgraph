@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 config.yaml
 langchain/config.yaml
+openai_cache.db
+cache_dir
